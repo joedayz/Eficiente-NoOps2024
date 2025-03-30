@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>pe.joedayz</groupId>
 	<artifactId>catalog-service</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>catalog-service</name>
 	<description>Demo para Eficiente NoOps</description>
 	<properties>
@@ -27,7 +27,7 @@
         	<developerConnection>scm:git:ssh://git@github.com/joedayz/Eficiente-NoOps2024.git</developerConnection>
         	<connection>scm:git:https://github.com/joedayz/Eficiente-NoOps2024.git</connection>
         	<url>https://github.com/joedayzEficiente-NoOps2024</url>
-     	  <tag>HEAD</tag>
+     	  <tag>catalog-service-0.0.2</tag>
   </scm>
 
 	
